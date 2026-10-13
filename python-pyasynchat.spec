@@ -4,7 +4,7 @@
 Name:		python-pyasynchat
 Summary:	Make asynchat available for Python 3.12 onwards
 Version:	1.0.5
-Release:	1
+Release:	2
 License:	PSF-2.0
 Group:		Development/Python
 URL:		https://github.com/simonrob/pyasynchat
